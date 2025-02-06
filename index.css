@@ -44,7 +44,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     height: 100%;
-    position: relative; /* Navbarın içindəki elementlərin düzgün yerləşməsi üçün */
+    position: absolute; /* Navbarın içindəki elementlərin düzgün yerləşməsi üçün */
 }
 
 /* Logo */
